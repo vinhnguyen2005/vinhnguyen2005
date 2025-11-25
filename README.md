@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student with a passion for **Data Engineering** and **Deep Learning**. I love building intelligent systems that turn raw data into actionable insights and exploring how neural networks can solve complex real-world problems.
+I'm a Computer Science student with a strong foundation in Software Engineering, currently exploring my passion for Data Engineering and Deep Learning. I love building intelligent systems that turn raw data into actionable insights and discovering how neural networks can solve complex real-world problems.
 
 ### 🔭 What I'm Working On
 - Building scalable **ETL pipelines** and data architectures
@@ -20,7 +20,6 @@ I'm a Computer Science student with a passion for **Data Engineering** and **Dee
 📧 **Email**: nguyenthanhvinh07052005@gmail.com
 🖇️ **Linkedin**: https://www.linkedin.com/in/crisvinh/
 
-Always open to collaborating on interesting data engineering or ML projects!
 
 
 
