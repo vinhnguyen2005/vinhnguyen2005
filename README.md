@@ -16,8 +16,8 @@ I'm a Computer Science student with a strong foundation in Software Engineering,
 - Model deployment and monitoring best practices
 
 ### 📫 Let's Connect
-📧 Email: nguyenthanhvinh07052005@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/crisvinh/
+- 📧 Email: nguyenthanhvinh07052005@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/crisvinh/
 
 
 
